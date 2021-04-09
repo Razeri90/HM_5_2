@@ -1,0 +1,5 @@
+Action1.c(25): Price ticket 1=565
+Action1.c(26): Price ticket 2=586
+Action1.c(27): Price ticket 3=508
+Action1.c(43): Minimum=508
+Vuser Terminated.
